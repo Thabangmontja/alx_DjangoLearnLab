@@ -31,10 +31,6 @@ This API allows users to:
 - Write unit tests for all API endpoints to ensure code quality and reliability.
 - Implement integration tests to verify the overall system functionality.
 
-### Documentation:
-- Create comprehensive documentation using tools like Swagger or OpenAPI.
-- Include clear instructions for developers on how to use the API.
-
 ## Technologies Used
 
 - **Django**: A high-level web framework for Python.
